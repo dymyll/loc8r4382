@@ -1,7 +1,7 @@
 MY READ ME
 
 
-#This is for Assignment 1
+# This is for Assignment 1
 
 I will be creating a application, compliments of Simon Holmes, that displays a few pizza places. 
 It will have a locations page, about page, and a review page. 
