@@ -1,0 +1,73 @@
+extends layout
+
+block content
+  #banner.page-header
+    .row
+      .col-lg-6
+         h1 Loc8r
+          small &nbsp; Find pizza places near you!
+          
+  .row  
+    .col-xs-12.col-sm-8
+      .row.list-group
+        .col-xs-12.list-group-item
+          h4
+            a(href="/location") Al's Pizza Buffett
+            small &nbsp;
+              span.glyphicon.glyphicon-star
+              span.glyphicon.glyphicon-star
+              span.glyphicon.glyphicon-star
+              span.glyphicon.glyphicon-star
+              span.glyphicon.glyphicon-star-empty
+            span.badge.pull-right.badge-default 21m
+          p.address 1412 Sally rd, Reading, RG6 1PS
+          p
+            span.label.label-warning Food
+            &nbsp;
+            span.label.label-warning Premium wifi
+            &nbsp;
+            
+   .row  
+    .col-xs-12.col-sm-8
+      .row.list-group
+        .col-xs-12.list-group-item
+          h4
+            a(href="/location") Gatti's Pizza 
+            small &nbsp;
+              span.glyphicon.glyphicon-star
+              span.glyphicon.glyphicon-star
+              span.glyphicon.glyphicon-star
+              span.glyphicon.glyphicon-star
+              span.glyphicon.glyphicon-star-empty
+            span.badge.pull-right.badge-default 50m
+          p.address 2782 Parmer ln, Reading, RG6 1PS
+          p
+            span.label.label-warning food
+            | &nbsp;
+            span.label.label-warning Premium wifi
+            | &nbsp;
+            
+   .row  
+    .col-xs-12.col-sm-8
+      .row.list-group
+        .col-xs-12.list-group-item
+          h4
+            a(href="/location") Real Pie's 
+            small &nbsp;
+              span.glyphicon.glyphicon-star
+              span.glyphicon.glyphicon-star
+              span.glyphicon.glyphicon-star
+              span.glyphicon.glyphicon-star
+              span.glyphicon.glyphicon-star
+            span.badge.pull-right.badge-default 100m
+          p.address 2782 Parmer ln, Reading, RG6 1PS
+          p
+            span.label.label-warning food
+            | &nbsp;
+            span.label.label-warning Premium wifi
+            | &nbsp;
+  
+    .col-xs-12.col-sm-4
+      p.lead Loc8r makes finding pizza restaraunts easy! 
+  h1= title
+  p Welcome to #{title}
