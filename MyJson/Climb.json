@@ -1,0 +1,55 @@
+{
+	"Climb": [
+	    {
+			"weight": "18000",
+			"vFriFlap5": "116",
+			"vFriFlap10": "110",
+			"vFriFlap15": "107",
+			"vClimb": "130"
+		},
+		{
+			"weight": "20000",
+			"vFriFlap5": "120",
+			"vFriFlap10": "112",
+			"vFriFlap15": "109",
+			"vClimb": "131"
+		},
+		{
+			"weight": "22000",
+			"vFriFlap5": "126",
+			"vFriFlap10": "118",
+			"vFriFlap15": "115",
+			"vClimb": "137"
+		},
+		{
+			"weight": "24000",
+			"vFriFlap5": "132",
+			"vFriFlap10": "123",
+			"vFriFlap15": "120",
+			"vClimb": "143"
+		},
+		{
+			"weight": "26000",
+			"vFriFlap5": "137",
+			"vFriFlap10": "128",
+			"vFriFlap15": "125",
+			"vClimb": "148"
+		},
+		{
+			"weight": "28000",
+			"vFriFlap5": "142",
+			"vFriFlap10": "134",
+			"vFriFlap15": "130",
+			"vClimb": "154"
+		},
+		{
+			"weight": "29000",
+			"vFriFlap5": "146",
+			"vFriFlap10": "137",
+			"vFriFlap15": "133",
+			"vClimb": "158"
+		}
+
+	]
+	
+}
