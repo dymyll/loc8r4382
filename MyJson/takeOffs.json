@@ -1233,7 +1233,7 @@
 {
   "flaps": 10,
   "weight": 28000,
-  "above20": true,
+  "above20": "true",
   "altitude": 8000,
   "Vr": "--",
   "V2": 122
