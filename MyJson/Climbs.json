@@ -1,0 +1,49 @@
+{
+  "weight" : "18000",
+  "vfriFlap5" : "116",
+  "vfriFlap10" : "110",
+  "vfriFlap15" : "107",
+  "vclimb" : "130"
+}
+{
+  "weight" : "20000",
+  "vfriFlap5" : "120",
+  "vfriFlap10" : "112",
+  "vfriFlap15" : "109",
+  "vclimb" : "131"
+}
+{
+  "weight" : "22000",
+  "vfriFlap5" : "126",
+  "vfriFlap10" : "118",
+  "vfriFlap15" : "115",
+  "vclimb" : "137"
+}
+{
+  "weight" : "24000",
+  "vfriFlap5" : "132",
+  "vfriFlap10" : "123",
+  "vfriFlap15" : "120",
+  "vclimb" : "143"
+}
+{
+  "weight" : "26000",
+  "vfriFlap5" : "137",
+  "vfriFlap10" : "128",
+  "vfriFlap15" : "125",
+  "vclimb" : "148"
+}
+{
+  "weight" : "28000",
+  "vfriFlap5" : "142",
+  "vfriFlap10" : "134",
+  "vfriFlap15" : "130",
+  "vclimb" : "154"
+}
+{
+  "weight" : "29000",
+  "vfriFlap5" : "146",
+  "vfriFlap10" : "137",
+  "vfriFlap15" : "133",
+  "vclimb" : "158"
+}

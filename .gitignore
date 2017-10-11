@@ -1,2 +1,4 @@
 # Dependency directory
+.gitignore
 node_modules
+data/

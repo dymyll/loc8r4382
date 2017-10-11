@@ -1,0 +1,197 @@
+{
+  "flaps": 5,
+  "weight": 18000,
+  "Vapp": 120,
+  "Vref": "--",
+  "Vga": 109
+}
+{
+  "flaps": 5,
+  "weight": 20000,
+  "Vapp": 110,
+  "Vref": "--",
+  "Vga": 109
+}
+{
+  "flaps": 5,
+  "weight": 22000,
+  "Vapp": 126,
+  "Vref": "--",
+  "Vga": 115
+}
+{
+  "flaps": 5,
+  "weight": 24000,
+  "Vapp": 131,
+  "Vref": "--",
+  "Vga": 120
+}
+{
+  "flaps": 5,
+  "weight": 26000,
+  "Vapp": 137,
+  "Vref": "--",
+  "Vga": 125
+}
+{
+  "flaps": 5,
+  "weight": 28000,
+  "Vapp": 142,
+  "Vref": "--",
+  "Vga": 130
+}
+{
+  "flaps": 5,
+  "weight": 29000,
+  "Vapp": 146,
+  "Vref": "--",
+  "Vga": 134
+}
+    {
+  "flaps": 10,
+  "weight": 18000,
+  "Vapp": 109,
+  "Vref": 108,
+  "Vga": 108
+}
+{
+  "flaps": 10,
+  "weight": 20000,
+  "Vapp": 112,
+  "Vref": 112,
+  "Vga": 108
+}
+{
+  "flaps": 10,
+  "weight": 22000,
+  "Vapp": 117,
+  "Vref": 117,
+  "Vga": 108
+}
+{
+  "flaps": 10,
+  "weight": 24000,
+  "Vapp": 122,
+  "Vref": 122,
+  "Vga": 112
+}
+{
+  "flaps": 10,
+  "weight": 26000,
+  "Vapp": 127,
+  "Vref": 127,
+  "Vga": 117
+}
+{
+  "flaps": 10,
+  "weight": 28000,
+  "Vapp": 132,
+  "Vref": 132,
+  "Vga": 122
+}
+{
+  "flaps": 10,
+  "weight": 29000,
+  "Vapp": 136,
+  "Vref": 136,
+  "Vga": 125
+}
+    {
+  "flaps": 15,
+  "weight": 18000,
+  "Vapp": 106,
+  "Vref": 105,
+  "Vga": 105
+}
+{
+  "flaps": 15,
+  "weight": 20000,
+  "Vapp": 106,
+  "Vref": 106,
+  "Vga": 105
+}
+{
+  "flaps": 15,
+  "weight": 22000,
+  "Vapp": 112,
+  "Vref": 122,
+  "Vga": 105
+}
+{
+  "flaps": 15,
+  "weight": 24000,
+  "Vapp": 117,
+  "Vref": 117,
+  "Vga": 107
+}
+{
+  "flaps": 15,
+  "weight": 26000,
+  "Vapp": 122,
+  "Vref": 121,
+  "Vga": 111
+}
+{
+  "flaps": 15,
+  "weight": 28000,
+  "Vapp": 126,
+  "Vref": 126,
+  "Vga": 116
+}
+{
+  "flaps": 15,
+  "weight": 29000,
+  "Vapp": 129,
+  "Vref": 129,
+  "Vga": 119
+}
+    {
+  "flaps": 35,
+  "weight": 18000,
+  "Vapp": "--",
+  "Vref": 101,
+  "Vga": "--"
+}
+{
+  "flaps": 35,
+  "weight": 20000,
+  "Vapp": "--",
+  "Vref": 102,
+  "Vga": "--"
+}
+{
+  "flaps": 35,
+  "weight": 22000,
+  "Vapp": "--",
+  "Vref": 107,
+  "Vga": "--"
+}
+{
+  "flaps": 35,
+  "weight": 24000,
+  "Vapp": "--",
+  "Vref": 112,
+  "Vga": "--"
+}
+{
+  "flaps": 35,
+  "weight": 26000,
+  "Vapp": "--",
+  "Vref": 116,
+  "Vga": "--"
+}
+{
+  "flaps": 35,
+  "weight": 28000,
+  "Vapp": "--",
+  "Vref": 120,
+  "Vga": "--"
+}
+{
+  "flaps": 35,
+  "weight": 29000,
+  "Vapp": "--",
+  "Vref": 123,
+  "Vga": "--"
+}
+
